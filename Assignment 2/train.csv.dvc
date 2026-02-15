@@ -1,0 +1,5 @@
+outs:
+- md5: 4ce5bed08ed77ae574f466c34c69b1dd
+  size: 330116
+  hash: md5
+  path: train.csv
