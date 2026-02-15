@@ -1,0 +1,15 @@
+creation_timestamp: 1771177941764
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1771177941764
+model_id: m-94194fa42af04f65ab8bbcf7d95160b1
+name: SMS_SPAM_Logistic
+run_id: 05d9972e433043f1b8bfad8ffb955597
+run_link: null
+source: models:/m-94194fa42af04f65ab8bbcf7d95160b1
+status: READY
+status_message: null
+storage_location: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/models/m-94194fa42af04f65ab8bbcf7d95160b1/artifacts
+user_id: null
+version: 1

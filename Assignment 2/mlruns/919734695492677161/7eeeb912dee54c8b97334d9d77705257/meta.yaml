@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/7eeeb912dee54c8b97334d9d77705257/artifacts
+end_time: 1771178124756
+entry_point_name: ''
+experiment_id: '919734695492677161'
+lifecycle_stage: active
+run_id: 7eeeb912dee54c8b97334d9d77705257
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771178116901
+status: 3
+tags: []
+user_id: user

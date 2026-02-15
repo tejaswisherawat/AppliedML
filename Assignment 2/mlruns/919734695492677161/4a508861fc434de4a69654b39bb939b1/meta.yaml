@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/4a508861fc434de4a69654b39bb939b1/artifacts
+end_time: 1771178040733
+entry_point_name: ''
+experiment_id: '919734695492677161'
+lifecycle_stage: active
+run_id: 4a508861fc434de4a69654b39bb939b1
+run_name: Naive_Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771178033380
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+creation_timestamp: 1771178124692
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1771178124692
+model_id: m-670977dd999e43a0bb3bc885f1ea41b9
+name: SMS_SPAM_RandomForest
+run_id: 7eeeb912dee54c8b97334d9d77705257
+run_link: null
+source: models:/m-670977dd999e43a0bb3bc885f1ea41b9
+status: READY
+status_message: null
+storage_location: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/models/m-670977dd999e43a0bb3bc885f1ea41b9/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,23 @@
+artifact_path: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/models/m-670977dd999e43a0bb3bc885f1ea41b9/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-670977dd999e43a0bb3bc885f1ea41b9
+model_size_bytes: 4397759
+model_uuid: m-670977dd999e43a0bb3bc885f1ea41b9
+prompts: null
+run_id: 7eeeb912dee54c8b97334d9d77705257
+utc_time_created: '2026-02-15 17:55:17.761811'

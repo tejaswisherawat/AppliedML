@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/05d9972e433043f1b8bfad8ffb955597/artifacts
+end_time: 1771177941835
+entry_point_name: ''
+experiment_id: '919734695492677161'
+lifecycle_stage: active
+run_id: 05d9972e433043f1b8bfad8ffb955597
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771177930661
+status: 3
+tags: []
+user_id: user

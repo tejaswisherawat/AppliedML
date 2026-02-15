@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/models/m-670977dd999e43a0bb3bc885f1ea41b9/artifacts
+creation_timestamp: 1771178117649
+experiment_id: '919734695492677161'
+last_updated_timestamp: 1771178124664
+model_id: m-670977dd999e43a0bb3bc885f1ea41b9
+model_type: null
+name: model
+source_run_id: 7eeeb912dee54c8b97334d9d77705257
+status: 2
+status_message: null

@@ -1,0 +1,15 @@
+creation_timestamp: 1771178040660
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1771178040660
+model_id: m-0042a79e756d48e9a5d14c2753caaf59
+name: SMS_SPAM_NaiveBayes
+run_id: 4a508861fc434de4a69654b39bb939b1
+run_link: null
+source: models:/m-0042a79e756d48e9a5d14c2753caaf59
+status: READY
+status_message: null
+storage_location: file:c:/Users/user/Desktop/Applied ML/Assignment 2/mlruns/919734695492677161/models/m-0042a79e756d48e9a5d14c2753caaf59/artifacts
+user_id: null
+version: 1
